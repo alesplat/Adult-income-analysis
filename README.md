@@ -8,5 +8,6 @@ The adult dataset comes from the USA repository machine learning databases. The 
 - Semi-Supervised analysis
 
 ## Files in the repository
+- Report on adult income dataset.pdf => the complete report in pdf with description
+- Report.ipynb => jupyter notebook of the report
 - adult.csv => database used
-- Report on adult income dataset => the complete report
