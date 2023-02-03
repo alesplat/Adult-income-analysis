@@ -9,4 +9,4 @@ The adult dataset comes from the USA repository machine learning databases. The 
 
 ## Files in the repository
 - adult.csv => database used
-- Report => the complete report
+- Report on adult income dataset => the complete report
