@@ -4,8 +4,20 @@ The adult dataset comes from the USA repository machine learning databases. The 
 ## General outlook
 - Exploratory Data Analysis (EDA)
 - Supervised analysis
+- Logistic Regression
+  * Gaussian Naive Bayes
+  * K-Nearest Neighobors
+  * Support Vector Machine
+  * Decision Tree
+  * Ensemble methods
+    * Bagging
+    * Random Forests
+    * Extra Trees
 - Unsupervised analysis
+  * PCA and FAMD
+  * Clustering
 - Semi-Supervised analysis
+  * Self training
 
 ## Files in the repository
 - Report on adult income dataset.pdf => the complete report in pdf
