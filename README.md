@@ -4,7 +4,7 @@ The adult dataset comes from the USA repository machine learning databases. The 
 ## General outlook
 - Exploratory Data Analysis (EDA)
 - Supervised analysis
-- Logistic Regression
+  * Logistic Regression
   * Gaussian Naive Bayes
   * K-Nearest Neighobors
   * Support Vector Machine
